@@ -339,3 +339,22 @@ nav a {
 .spacer {
   margin-top: 60px;
 }
+
+
+.profile-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 20px; /* space between text and image */
+  margin: 20px auto;
+  max-width: 900px;
+}
+
+.profile-container .text {
+  flex: 1;
+  font-size: 16px;
+}
+
+.profile-container .image img {
+  border-radius: 8px;
+}
