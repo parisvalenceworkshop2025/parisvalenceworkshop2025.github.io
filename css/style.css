@@ -330,3 +330,11 @@ kbd {
 	}
 }
 
+
+nav a {
+        margin-right: 10px;
+    }
+
+.spacer {
+  margin-top: 60px;
+}
