@@ -69,12 +69,12 @@ h6 tt, h6 code {
 
 h1 {
   font-size: 40px;
-  color: black; }
+  color: #0b177a; }
 
 h2 {
   font-size: 24px;
   border-bottom: 1px solid #cccccc;
-  color: black; }
+  color: #f8c824; }
 
 h3 {
   font-size: 20px; }
@@ -359,7 +359,9 @@ nav a {
   border-radius: 8px;
 }
 
-
 .large-text {
   font-size: 20px; /* Or any size you prefer */
 }
+
+
+
