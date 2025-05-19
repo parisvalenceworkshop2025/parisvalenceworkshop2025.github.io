@@ -358,3 +358,8 @@ nav a {
 .profile-container .image img {
   border-radius: 8px;
 }
+
+
+.large-text {
+  font-size: 20px; /* Or any size you prefer */
+}
